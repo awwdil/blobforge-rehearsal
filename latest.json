@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/awwdil/blobforge-rehearsal/releases/download/v1.0.0/BlobForge-1.0.0.zip",
+  "notes": "First release",
+  "files_url": "https://github.com/awwdil/blobforge-rehearsal/releases/download/v1.0.0/files.json",
+  "blob_base": "https://github.com/awwdil/blobforge-rehearsal/releases/download/blobs",
+  "sha256": "ad90b02f64b09ff02aa4bcf919c096151f55605f20d00c91b305cc3c19b02fbd",
+  "zip_size": 2183
+}
